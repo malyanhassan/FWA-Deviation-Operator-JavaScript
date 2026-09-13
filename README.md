@@ -47,8 +47,8 @@ x* = 0.25
 
 ## Files
 
-- `deviation_operator.js` — JavaScript implementation of the iterative simulation.
-- `index.html` — Browser-based visualization of the simulation.
+- `deviation_operator.js`: JavaScript implementation of the iterative simulation.
+- `index.html`: Browser-based visualization of the simulation.
 
 ## Running the Numerical Simulation
 
