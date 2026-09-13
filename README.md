@@ -1,4 +1,4 @@
-# FWA Deviation Operator — JavaScript Simulation
+# FWA Deviation Operator: JavaScript Simulation
 
 ## Overview
 
@@ -20,10 +20,10 @@ xₙ₊₁ = Δ(xₙ)
 
 For this simulation, the parameters are:
 
-- γ = 0.12
-- ψ = 0.03
-- Initial value: x₀ = 1.0
-- Number of steps: 120
+1. γ = 0.12
+2. ψ = 0.03
+3. Initial value: x₀ = 1.0
+4. Number of steps: 120
 
 ## Simulation
 
