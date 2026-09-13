@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a JavaScript implementation of the FWA deviation operator and demonstrates the iterative evolution of a dynamic configuration.
+This project presents the JavaScript implementation of the FWA deviation operator and demonstrates the iterative evolution of a dynamic configuration.
 
 ## Mathematical Model
 
