@@ -1,4 +1,5 @@
-function delta(x, gamma = 0.12, psi = 0.03) {
+function delta(x, gamma = 0.12, psi = 0.03)
+{
     return x - gamma * x + psi;
 }
 
